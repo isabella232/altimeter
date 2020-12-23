@@ -1,0 +1,29 @@
+altimeter.aws.access package
+============================
+
+Submodules
+----------
+
+altimeter.aws.access.accessor module
+------------------------------------
+
+.. automodule:: altimeter.aws.access.accessor
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+altimeter.aws.access.exceptions module
+--------------------------------------
+
+.. automodule:: altimeter.aws.access.exceptions
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: altimeter.aws.access
+   :members:
+   :undoc-members:
+   :show-inheritance:
